@@ -1,0 +1,6 @@
+[submodule "Note/MiniMind-in-Depth"]
+	path = Note/MiniMind-in-Depth
+	url = https://github.com/hans0809/MiniMind-in-Depth.git
+[submodule "Note/breakdown-minimind"]
+	path = Note/breakdown-minimind
+	url = https://github.com/Nijikadesu/breakdown-minimind.git
